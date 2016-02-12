@@ -1,4 +1,4 @@
-![Cris](https://github.com/riverc7/Open-Source-Cris/tree/master/images/rivera.jpg)
+![Cris](images/rivera.jpg)
 
 Cristian Rivera
 
